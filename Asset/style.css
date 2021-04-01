@@ -1,0 +1,35 @@
+.utility{
+    width: 70%;
+    margin: auto;
+}
+
+.container{
+    margin-top: 20px;
+}
+
+[class*="col-"]{
+    position: relative;
+}
+
+.lightpink{
+    background-color: #FFC0CB;
+    border: 1px solid black;
+    height: 150px;
+}
+
+.darkpink{
+    background-color: #F07F80;
+    border: 1px solid white;
+    height: 100%;
+}
+
+.padding{
+    padding: 5px;
+}
+
+span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
