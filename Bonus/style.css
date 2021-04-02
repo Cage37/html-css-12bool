@@ -1,0 +1,46 @@
+.utility{
+    width: 60%;
+    margin: auto;
+}
+
+.container{
+
+margin-top: 30px;    
+    
+}
+
+[class*="col-"]{
+    position: relative;
+}
+
+.white{
+    background-color: white;
+    height: 61px;
+}
+
+.black{
+    background-color: black;
+    height: 61px;
+}
+
+.contyin{
+    height: 100px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 160px;
+    position: absolute;
+}
+
+.contyang{
+    height: 100px;
+    width: 250px;
+    margin-top: 620px;
+    margin-left: 1160px;
+    position: absolute;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+    letter-spacing: 20px;
+}
